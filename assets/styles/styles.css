@@ -125,10 +125,10 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  border-radius: 2px solid #ffffff;
+  border-radius: 2px solid #fff;
   font-size: 30px;
   width: 100vw;
-  background-color: #ffffff;
+  background-color: #fff;
 }
 
 .register-sub-container {
@@ -239,7 +239,6 @@ body {
 
 .days {
   background-color: #fcfcfc;
-  
 }
 
 .sub-days {
@@ -248,7 +247,7 @@ body {
   border-radius: 30px;
   color: #fff;
 }
-                                                                        
+
 .sub-time {
   color: #f7f7f7;
 }
