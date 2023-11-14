@@ -144,6 +144,12 @@ body {
   height: 150vh;
 }
 
+.mid-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 #div-intro {
   display: flex;
   text-align: center;
