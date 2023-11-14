@@ -263,6 +263,7 @@ body {
 }
 
 .sub-time {
+  color: #f7f7f7;
   padding-top: 180px;
 }
 
@@ -271,10 +272,6 @@ body {
   padding-top: 80px;
   padding-right: 10px;
   margin-left: 10px;
-}
-
-.sub-time {
-  color: #f7f7f7;
 }
 
 .main-period {
